@@ -36,5 +36,4 @@ This collection highlights the transition from 3D geometry to finalized game-rea
 * **Workflow:** High-to-low poly baking and efficient UV packing to maximize texture resolution in-engine.
 
 ## 📂 Repository Structure
-* `source/`: Contains the primary `.fbx` and `.blend` project files.
 * `documentation/`: High-resolution wireframes and renders of the weapon library.
